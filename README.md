@@ -17,10 +17,7 @@ Download https://www.python.org/ftp/python/3.9.5/python-3.9.5.exe
 
 #Setup Wine for cross compiling
 
-WINEPREFIX=~/.wine64 WINARCH=win64 winetricks \
-    corefonts \
-    win10
-    /.wine64
+WINEPREFIX=~/.wine64 WINARCH=win64 winetricks corefonts win10
 WINEPREFIX=~/.wine64 WINARCH=win64 wine ~/Downloads/python-3.9.5.exe 
 
 WINEPREFIX=~/.wine64 WINARCH=win64 wine ~/Downloads/mingw-w64-install.exe

